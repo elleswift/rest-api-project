@@ -1,0 +1,37 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    
+    box-sizing: inherit;
+}
+
+h1 {
+    margin-bottom: -4rem;
+    text-align: center;
+    padding-bottom: 50px;
+}
+body {
+    font-family:cursive;
+    font-size:larger;
+    background-size: contain;
+    background-color:rgb(243, 209, 220);
+    padding: 50px;
+
+  }
+img {
+    width: 1000px;
+    height: 600px;
+    object-fit: cover;
+    padding: 50px;
+    margin-left: 100px;
+    padding-bottom: 10px;
+   
+}
+h3{
+padding-left: 150px;
+}
+
+p{
+    margin-left: 150px;
+}
